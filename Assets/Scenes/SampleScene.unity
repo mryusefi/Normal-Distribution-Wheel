@@ -280,7 +280,7 @@ MonoBehaviour:
     Probability: 0
   - Type: 2
     Probability: 0
-  TotalSpins: 5
+  TotalSpins: 10
   spinBtn: {fileID: 2013093038}
   wheelImage: {fileID: 566986435}
   winPopup: {fileID: 415422832}
